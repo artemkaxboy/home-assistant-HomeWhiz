@@ -76,6 +76,7 @@ If you signed up via Google in the HomeWhiz app, try forcing a HomeWhiz password
 ### Retrieve Integration Logs
 
 To help us help you, please include integration logs when you submit issues. The integration supports multiple logging levels of which not all are shown in the Home Assistant log by default. To enable debug logging for this integration, please add the following configuration to your Home Assistant configuration.yaml file:
+
 ```yaml
 logger:
   logs:
